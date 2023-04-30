@@ -14,6 +14,23 @@
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
 		7699B88040F8A987B510C191 /* libPods-Spotify_Clone-Spotify_CloneTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19F6CBCC0A4E27FBF8BF4A61 /* libPods-Spotify_Clone-Spotify_CloneTests.a */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
+		8FC2A48F29FE7CD5005B4F73 /* dummy.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FC2A48E29FE7CD5005B4F73 /* dummy.swift */; };
+		8FC2A4A029FE7D46005B4F73 /* AntDesign.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8FC2A49029FE7D45005B4F73 /* AntDesign.ttf */; };
+		8FC2A4A129FE7D46005B4F73 /* Entypo.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8FC2A49129FE7D45005B4F73 /* Entypo.ttf */; };
+		8FC2A4A229FE7D46005B4F73 /* EvilIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8FC2A49229FE7D45005B4F73 /* EvilIcons.ttf */; };
+		8FC2A4A329FE7D46005B4F73 /* MaterialIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8FC2A49329FE7D45005B4F73 /* MaterialIcons.ttf */; };
+		8FC2A4A429FE7D46005B4F73 /* SimpleLineIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8FC2A49429FE7D45005B4F73 /* SimpleLineIcons.ttf */; };
+		8FC2A4A529FE7D46005B4F73 /* MaterialCommunityIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8FC2A49529FE7D45005B4F73 /* MaterialCommunityIcons.ttf */; };
+		8FC2A4A629FE7D46005B4F73 /* FontAwesome.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8FC2A49629FE7D46005B4F73 /* FontAwesome.ttf */; };
+		8FC2A4A729FE7D46005B4F73 /* Feather.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8FC2A49729FE7D46005B4F73 /* Feather.ttf */; };
+		8FC2A4A829FE7D46005B4F73 /* Foundation.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8FC2A49829FE7D46005B4F73 /* Foundation.ttf */; };
+		8FC2A4A929FE7D46005B4F73 /* Fontisto.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8FC2A49929FE7D46005B4F73 /* Fontisto.ttf */; };
+		8FC2A4AA29FE7D46005B4F73 /* FontAwesome5_Solid.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8FC2A49A29FE7D46005B4F73 /* FontAwesome5_Solid.ttf */; };
+		8FC2A4AB29FE7D46005B4F73 /* Ionicons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8FC2A49B29FE7D46005B4F73 /* Ionicons.ttf */; };
+		8FC2A4AC29FE7D46005B4F73 /* Octicons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8FC2A49C29FE7D46005B4F73 /* Octicons.ttf */; };
+		8FC2A4AD29FE7D46005B4F73 /* FontAwesome5_Brands.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8FC2A49D29FE7D46005B4F73 /* FontAwesome5_Brands.ttf */; };
+		8FC2A4AE29FE7D46005B4F73 /* FontAwesome5_Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8FC2A49E29FE7D46005B4F73 /* FontAwesome5_Regular.ttf */; };
+		8FC2A4AF29FE7D46005B4F73 /* Zocial.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8FC2A49F29FE7D46005B4F73 /* Zocial.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -43,6 +60,24 @@
 		5DCACB8F33CDC322A6C60F78 /* libPods-Spotify_Clone.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Spotify_Clone.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = Spotify_Clone/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		89C6BE57DB24E9ADA2F236DE /* Pods-Spotify_Clone-Spotify_CloneTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Spotify_Clone-Spotify_CloneTests.release.xcconfig"; path = "Target Support Files/Pods-Spotify_Clone-Spotify_CloneTests/Pods-Spotify_Clone-Spotify_CloneTests.release.xcconfig"; sourceTree = "<group>"; };
+		8FC2A48D29FE7CD5005B4F73 /* Spotify_Clone-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Spotify_Clone-Bridging-Header.h"; sourceTree = "<group>"; };
+		8FC2A48E29FE7CD5005B4F73 /* dummy.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = dummy.swift; sourceTree = "<group>"; };
+		8FC2A49029FE7D45005B4F73 /* AntDesign.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = AntDesign.ttf; sourceTree = "<group>"; };
+		8FC2A49129FE7D45005B4F73 /* Entypo.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Entypo.ttf; sourceTree = "<group>"; };
+		8FC2A49229FE7D45005B4F73 /* EvilIcons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = EvilIcons.ttf; sourceTree = "<group>"; };
+		8FC2A49329FE7D45005B4F73 /* MaterialIcons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = MaterialIcons.ttf; sourceTree = "<group>"; };
+		8FC2A49429FE7D45005B4F73 /* SimpleLineIcons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = SimpleLineIcons.ttf; sourceTree = "<group>"; };
+		8FC2A49529FE7D45005B4F73 /* MaterialCommunityIcons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = MaterialCommunityIcons.ttf; sourceTree = "<group>"; };
+		8FC2A49629FE7D46005B4F73 /* FontAwesome.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = FontAwesome.ttf; sourceTree = "<group>"; };
+		8FC2A49729FE7D46005B4F73 /* Feather.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Feather.ttf; sourceTree = "<group>"; };
+		8FC2A49829FE7D46005B4F73 /* Foundation.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Foundation.ttf; sourceTree = "<group>"; };
+		8FC2A49929FE7D46005B4F73 /* Fontisto.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Fontisto.ttf; sourceTree = "<group>"; };
+		8FC2A49A29FE7D46005B4F73 /* FontAwesome5_Solid.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = FontAwesome5_Solid.ttf; sourceTree = "<group>"; };
+		8FC2A49B29FE7D46005B4F73 /* Ionicons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Ionicons.ttf; sourceTree = "<group>"; };
+		8FC2A49C29FE7D46005B4F73 /* Octicons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Octicons.ttf; sourceTree = "<group>"; };
+		8FC2A49D29FE7D46005B4F73 /* FontAwesome5_Brands.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = FontAwesome5_Brands.ttf; sourceTree = "<group>"; };
+		8FC2A49E29FE7D46005B4F73 /* FontAwesome5_Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = FontAwesome5_Regular.ttf; sourceTree = "<group>"; };
+		8FC2A49F29FE7D46005B4F73 /* Zocial.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Zocial.ttf; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
@@ -116,12 +151,30 @@
 		83CBB9F61A601CBA00E9B192 = {
 			isa = PBXGroup;
 			children = (
+				8FC2A49029FE7D45005B4F73 /* AntDesign.ttf */,
+				8FC2A49129FE7D45005B4F73 /* Entypo.ttf */,
+				8FC2A49229FE7D45005B4F73 /* EvilIcons.ttf */,
+				8FC2A49729FE7D46005B4F73 /* Feather.ttf */,
+				8FC2A49629FE7D46005B4F73 /* FontAwesome.ttf */,
+				8FC2A49D29FE7D46005B4F73 /* FontAwesome5_Brands.ttf */,
+				8FC2A49E29FE7D46005B4F73 /* FontAwesome5_Regular.ttf */,
+				8FC2A49A29FE7D46005B4F73 /* FontAwesome5_Solid.ttf */,
+				8FC2A49929FE7D46005B4F73 /* Fontisto.ttf */,
+				8FC2A49829FE7D46005B4F73 /* Foundation.ttf */,
+				8FC2A49B29FE7D46005B4F73 /* Ionicons.ttf */,
+				8FC2A49529FE7D45005B4F73 /* MaterialCommunityIcons.ttf */,
+				8FC2A49329FE7D45005B4F73 /* MaterialIcons.ttf */,
+				8FC2A49C29FE7D46005B4F73 /* Octicons.ttf */,
+				8FC2A49429FE7D45005B4F73 /* SimpleLineIcons.ttf */,
+				8FC2A49F29FE7D46005B4F73 /* Zocial.ttf */,
+				8FC2A48E29FE7CD5005B4F73 /* dummy.swift */,
 				13B07FAE1A68108700A75B9A /* Spotify_Clone */,
 				832341AE1AAA6A7D00B99B32 /* Libraries */,
 				00E356EF1AD99517003FC87E /* Spotify_CloneTests */,
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				BBD78D7AC51CEA395F1C20DB /* Pods */,
+				8FC2A48D29FE7CD5005B4F73 /* Spotify_Clone-Bridging-Header.h */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -207,7 +260,7 @@
 						TestTargetID = 13B07F861A680F5B00A75B9A;
 					};
 					13B07F861A680F5B00A75B9A = {
-						LastSwiftMigration = 1120;
+						LastSwiftMigration = 1430;
 					};
 				};
 			};
@@ -242,6 +295,22 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8FC2A4A029FE7D46005B4F73 /* AntDesign.ttf in Resources */,
+				8FC2A4A129FE7D46005B4F73 /* Entypo.ttf in Resources */,
+				8FC2A4A229FE7D46005B4F73 /* EvilIcons.ttf in Resources */,
+				8FC2A4A329FE7D46005B4F73 /* MaterialIcons.ttf in Resources */,
+				8FC2A4A429FE7D46005B4F73 /* SimpleLineIcons.ttf in Resources */,
+				8FC2A4A529FE7D46005B4F73 /* MaterialCommunityIcons.ttf in Resources */,
+				8FC2A4A629FE7D46005B4F73 /* FontAwesome.ttf in Resources */,
+				8FC2A4A729FE7D46005B4F73 /* Feather.ttf in Resources */,
+				8FC2A4A829FE7D46005B4F73 /* Foundation.ttf in Resources */,
+				8FC2A4A929FE7D46005B4F73 /* Fontisto.ttf in Resources */,
+				8FC2A4AA29FE7D46005B4F73 /* FontAwesome5_Solid.ttf in Resources */,
+				8FC2A4AB29FE7D46005B4F73 /* Ionicons.ttf in Resources */,
+				8FC2A4AC29FE7D46005B4F73 /* Octicons.ttf in Resources */,
+				8FC2A4AD29FE7D46005B4F73 /* FontAwesome5_Brands.ttf in Resources */,
+				8FC2A4AE29FE7D46005B4F73 /* FontAwesome5_Regular.ttf in Resources */,
+				8FC2A4AF29FE7D46005B4F73 /* Zocial.ttf in Resources */,
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
 			);
@@ -344,40 +413,7 @@
 			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-Spotify_Clone-Spotify_CloneTests/Pods-Spotify_Clone-Spotify_CloneTests-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
-		E235C05ADACE081382539298 /* [CP] Copy Pods Resources */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-Spotify_Clone/Pods-Spotify_Clone-resources-${CONFIGURATION}-input-files.xcfilelist",
-			);
-			name = "[CP] Copy Pods Resources";
-			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-Spotify_Clone/Pods-Spotify_Clone-resources-${CONFIGURATION}-output-files.xcfilelist",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-Spotify_Clone/Pods-Spotify_Clone-resources.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		F6A41C54EA430FDDC6A6ED99 /* [CP] Copy Pods Resources */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-Spotify_Clone-Spotify_CloneTests/Pods-Spotify_Clone-Spotify_CloneTests-resources-${CONFIGURATION}-input-files.xcfilelist",
-			);
-			name = "[CP] Copy Pods Resources";
-			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-Spotify_Clone-Spotify_CloneTests/Pods-Spotify_Clone-Spotify_CloneTests-resources-${CONFIGURATION}-output-files.xcfilelist",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-Spotify_Clone-Spotify_CloneTests/Pods-Spotify_Clone-Spotify_CloneTests-resources.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
+		
 		FD10A7F022414F080027D42C /* Start Packager */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
@@ -413,6 +449,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				13B07FBC1A68108700A75B9A /* AppDelegate.mm in Sources */,
+				8FC2A48F29FE7CD5005B4F73 /* dummy.swift in Sources */,
 				13B07FC11A68108700A75B9A /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -432,6 +469,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 5B7EB9410499542E8C5724F5 /* Pods-Spotify_Clone-Spotify_CloneTests.debug.xcconfig */;
 			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"DEBUG=1",
@@ -459,6 +497,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 89C6BE57DB24E9ADA2F236DE /* Pods-Spotify_Clone-Spotify_CloneTests.release.xcconfig */;
 			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				COPY_PHASE_STRIP = NO;
 				INFOPLIST_FILE = Spotify_CloneTests/Info.plist;
@@ -500,6 +539,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = Spotify_Clone;
+				SWIFT_OBJC_BRIDGING_HEADER = "Spotify_Clone-Bridging-Header.h";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
@@ -526,6 +566,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = Spotify_Clone;
+				SWIFT_OBJC_BRIDGING_HEADER = "Spotify_Clone-Bridging-Header.h";
 				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
